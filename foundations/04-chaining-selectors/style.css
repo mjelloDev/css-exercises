@@ -15,5 +15,5 @@
 
 .avatar.distorted {
   width: 200px;
-  height: 800px;
+  height: 400px; /* lol I misunderstood the assignment, apparently I need to put twice the width NOT twice the original height */
 }
